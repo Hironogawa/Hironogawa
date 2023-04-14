@@ -4,12 +4,10 @@ Hironogawa is a creative developer who specializes in building web applications 
 
 He has worked on a variety of projects during his career, from unique web apps to multimedia experiences, applying his technical know-how and imaginative flair to provide cutting-edge solutions. He is renowned for his exacting attention to detail, dedication to excellence, and eagerness to experiment with cutting-edge techniques and technologies.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hironogawa&show_icons=true&count_private=true&theme=cobalt)  
-
 ## Skillset
-VUE · Nuxt.js · Python · React Native · React.js · Node.js · Linux · JavaScript · Web Application Development · Motion Graphics · DevOps · Kubernetes · Docker · Automation · Strapi.js · User Experience (UX) · Branding & Identity · Design Thinking · Corporate Identity · Project Management · Webdesign · Logodesign · Graphic Design · PHP · Computer-Generated Imagery (CGI)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hironogawa&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hironogawa&layout=compact&theme=cobalt" />
+</a>VUE · Nuxt.js · Python · React Native · React.js · Node.js · Linux · JavaScript · Web Application Development · Motion Graphics · DevOps · Kubernetes · Docker · Automation · Strapi.js · User Experience (UX) · Branding & Identity · Design Thinking · Corporate Identity · Project Management · Webdesign · Logodesign · Graphic Design · PHP · Computer-Generated Imagery (CGI)
 
 
 ## Current 
@@ -17,8 +15,9 @@ VUE · Nuxt.js · Python · React Native · React.js · Node.js · Linux · Java
 - 🌱 Learning automation and ML/AI with Python. 
 - 🚀 Educate and help people in starting their careers in tech.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hironogawa&show_icons=true&count_private=true&theme=cobalt)  
 
-### Socials
-- [Instagram](https://www.instagram.com/hironogawa/)
-- [Twitter](https://twitter.com/hironogawa)  
+
+### Links
+[Instagram](https://www.instagram.com/hironogawa/) · [Twitter](https://twitter.com/hironogawa) · [Website](https://hironogawa.com/)
 
