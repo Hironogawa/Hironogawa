@@ -1,14 +1,24 @@
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+![Futuristic Cyber Desktop Artwork](https://a.storyblok.com/f/195337/1536x1024/f74a84d4ac/hironogawa-banner-cyber-desktop-midjourney.png/m//filters:format(webp))
+## About
+Hironogawa is a creative developer who specializes in building web applications and creating interactive visuals. He has developed a reputation for being creative and adept in the computer field because to his passion for technology and great eye for design.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+He has worked on a variety of projects during his career, from unique web apps to multimedia experiences, applying his technical know-how and imaginative flair to provide cutting-edge solutions. He is renowned for his exacting attention to detail, dedication to excellence, and eagerness to experiment with cutting-edge techniques and technologies.
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python for automation. 
-- 🤔 I’m looking for help with My Startup APP 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hironogawa&show_icons=true&count_private=true&theme=cobalt)  
+
+## Skillset
+VUE · Nuxt.js · Python · React Native · React.js · Node.js · Linux · JavaScript · Web Application Development · Motion Graphics · DevOps · Kubernetes · Docker · Automation · Strapi.js · User Experience (UX) · Branding & Identity · Design Thinking · Corporate Identity · Project Management · Webdesign · Logodesign · Graphic Design · PHP · Computer-Generated Imagery (CGI)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hironogawa&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hironogawa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hironogawa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hironogawa)  
+## Current 
+- 🔭 Working on a new startup 
+- 🌱 Learning automation and ML/AI with Python. 
+- 🚀 Educate and help people in starting their careers in tech.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hironogawa)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hironogawa&show_icons=true&count_private=true)  
+### Socials
+- [Instagram](https://www.instagram.com/hironogawa/)
+- [Twitter](https://twitter.com/hironogawa)  
+
