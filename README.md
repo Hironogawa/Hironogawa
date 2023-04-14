@@ -19,5 +19,4 @@ He has worked on a variety of projects during his career, from unique web apps t
 
 
 ### Links
-[Instagram](https://www.instagram.com/hironogawa/) · [Twitter](https://twitter.com/hironogawa) · [Website](https://hironogawa.com/)
-
+[Website](https://hironogawa.com/) · [Twitter](https://twitter.com/hironogawa) · [Instagram](https://www.instagram.com/hironogawa/)
