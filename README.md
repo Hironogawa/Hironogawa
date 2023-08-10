@@ -1,7 +1,8 @@
-# About Me
+
 ![Giphy Dogo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhqZG9haXV0M2UwNzR2YXB0Yjh4djJlbmxodGx5NXdjZzE1NGt1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pSpmpxFxFwDpC/giphy.gif)
 
-## 👋 Meet Hironogawa: Crafting Digital Stories, One Line at a Time
+
+# 👋 Meet Hironogawa: Crafting Digital Stories, One Line at a Time
 
 🎨 Creative Digital Creator | 🖥️ Programmer | 🌍 Digital Nomad
 
