@@ -1,10 +1,20 @@
 
+<style>
+img[alt='Giphy Dogo'] {
+    width: 100%;
+}
+h1 {
+    font-size: 48px;
+}
+</style>
+
+
 ![Giphy Dogo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhqZG9haXV0M2UwNzR2YXB0Yjh4djJlbmxodGx5NXdjZzE1NGt1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pSpmpxFxFwDpC/giphy.gif)
 
 
 # 👋 Meet Hironogawa: Crafting Digital Stories, One Line at a Time
 
-🎨 Creative Digital Creator | 🖥️ Programmer | 🌍 Digital Nomad
+ <b>🎨  Creative Digital Creator | 🖥️ Programmer | 🌍 Digital Nomad </b>
 
 📍 Switzerland 🇨🇭 | 🏡 Proudly from the Philippines 🇵🇭
 
