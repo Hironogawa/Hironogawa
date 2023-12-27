@@ -4,7 +4,7 @@
 
 Hey, I'm a creative wizard in the digital realm who loves turning ideas into colorful stories using computers. I'm based in beautiful Switzerland and proudly carry the heart and culture of the Philippines in everything I do.
 
-![Abstract Snow Cubes](https://media.giphy.com/media/9pDCaEFEigGVc4L6p2/giphy-downsized-large.gif)
+<img src="https://i.giphy.com/9pDCaEFEigGVc4L6p2.webp" width="100%" height="auto" alt="Abstract Snow Cubes" />
 
 ## Creative Developer | Visual Designer | Cyber Nomad
 
